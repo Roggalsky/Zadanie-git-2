@@ -1,0 +1,20 @@
+.wiersz{
+    padding: 20px;
+    font-family: 'Barlow Condensed', sans-serif;
+}
+
+.author {
+    font-size: 24px;
+}
+
+.title {
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+    
+}
+
+.text {
+    font: size 16px;
+    line-height: 1.5;
+}
