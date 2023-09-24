@@ -67,15 +67,17 @@
 }
 
 .wiersz{
-    margin: 50px;
     background-color:#162949;
-    padding-left: 50px;
     text-align: left;
+    margin-top: 50px;
+    width: 100%;
+    padding:10px;
+    
 }
 .title{
-    color:black;
+    color:wheat;
     padding-top: 10px;
 }
 .text{
-    color:black;
+    color:wheat;
 }
